@@ -1,6 +1,6 @@
-# Astore - Ecommerce website
+# Ecommerce website
 
-It is clone of Astore Ecommerce website with all basic functionalities of Ecommerce website.
+It is clone of Ecommerce website with all basic functionalities of Ecommerce website.
 
 ## Technologies Used
 
